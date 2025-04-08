@@ -1,0 +1,7 @@
+Librerias utilizadas
+
+NumPy
+OpenCV: para poder utilizar la camara del dispositivo
+
+Levi Claros 15. 
+2024. 
